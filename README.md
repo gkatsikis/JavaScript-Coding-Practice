@@ -8067,13 +8067,11 @@ c.retrieve(); // => The counter is currently at: 14
 
 ```js
 const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-
 let lenth = 3;
 
 function split(len) {
   while (arr.length > 0) {
-    let temp = arr.splice(0, len);
-    console.log(temp);
+    console.log(arr.splice(0, len));
   }
 }
 split(lenth);
