@@ -8066,23 +8066,26 @@ c.retrieve(); // => The counter is currently at: 14
 ## Q. ***How to divide an array in multiple equal parts in JS?***
 
 ```js
-function splitArrayIntoChunksOfLen(arr, len) {
-  let chunks = [],
-    i = 0,
-    n = arr.length;
+const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
-  while (i < n) {
-    chunks.push(arr.slice(i, (i += len)));
+let lenth = 3;
+
+function split(len) {
+  while (arr.length > 0) {
+    let temp = arr.splice(0, len);
+    console.log(temp);
   }
-  return chunks;
 }
-let alphabet = ["a", "b", "c", "d", "e", "f"];
-let alphabetPairs = splitArrayIntoChunksOfLen(alphabet, 2); //split into chunks of two
+split(lenth);
 
-console.log(alphabetPairs);
+// Output
+(3) [1, 2, 3]
+(3) [4, 5, 6]
+(3) [7, 8, 9]
+(1) [10]
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/splitarrayintochunksoflen-5od3rz?file=/src/index.js:0-345)**
+**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/split-array-5od3rz)**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
