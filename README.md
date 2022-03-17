@@ -217,11 +217,26 @@ console.log(isEmpty(obj)); // true
 
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-isempty-b7n04b?file=/src/index.js)**
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 ## Q. ***JavaScript Regular Expression to validate Email***
 
 ```javascript
-var pattern = /^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$/;
+function validateEmail(email) {
+  const re = /\S+@\S+\.\S+/;
+  return re.test(email);
+}
+
+console.log(validateEmail("pradeep.vwa@gmail.com")); // true
 ```
+
+**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-validateemail-wfopym?file=/src/index.js)**
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 ## Q. ***Use RegEx to test password strength in JavaScript?***
 
