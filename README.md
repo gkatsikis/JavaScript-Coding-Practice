@@ -111,106 +111,73 @@ File Extension: jpg
   <head>
     <title>Stopwatch Example</title>
   </head>
+
   <body>
-    <form action="" method="post">
-      <h4>Simple stopwatch made in JavaScript</h4>
-      <input type="button" onclick="startWatch()" value="START" />
-      <input type="button" onclick="stopWatch()" value="STOP" />
-      <input type="button" onclick="resetWatch()" value="ZERO" />
-    </form>
-    <p id="res">
-      <span id="min">0</span> : <span id="sec">00</span> :
-      <span id="msec">000</span>
-    </p>
-    <p>
-      In this example Date() methods co-operate with timing function
-      setInterval().
-    </p>
+    <h4>Time: <span id="time">00:00:00</span><h4> <br /><br />
+    <button id="start" onclick="start()">Start</button>
+    <button id="stop" onclick="stop()">Stop</button>
+    <button id="reset" onclick="reset()">Reset</button>
 
     <script type="text/javascript">
-      var timer = null;
-      var min_txt = document.getElementById("min");
-      var min = Number(min_txt.innerHTML);
-      var sec_txt = document.getElementById("sec");
-      var sec = Number(sec_txt.innerHTML);
-      var msec_txt = document.getElementById("msec");
-      var msec = Number(msec_txt.innerHTML);
-      function stopTimeMilliseconds(timer) {
-        if (timer) {
-          clearInterval(timer);
-          return timer;
-        } else return timer;
-      }
-      function startTimeMilliseconds() {
-        var currDate = new Date();
-        return currDate.getTime();
-      }
-      function getElapsedTimeMilliseconds(startMilliseconds) {
-        if (startMilliseconds > 0) {
-          var currDate = new Date();
-          elapsedMilliseconds = currDate.getTime() - startMilliseconds;
-          return elapsedMilliseconds;
-        } else {
-          return (elapsedMilliseconds = 0);
+      const time = document.getElementById("time");
+      const startBtn = document.getElementById("start");
+
+      let timer;
+      let seconds = 0;
+      let hours = 0;
+      let minutes = 0;
+      let MINUTES_IN_HOUR = 60;
+      let SECONDS_IN_MINUTE = 60;
+
+      function updateTimer() {
+        seconds++;
+        if (seconds >= SECONDS_IN_MINUTE) {
+          seconds = 0;
+          minutes++;
+          if (minutes >= MINUTES_IN_HOUR) {
+            minutes = 0;
+            hours++;
+          }
         }
+
+        time.textContent =
+          (hours ? (hours > 9 ? hours : "0" + hours) : "00") +
+          ":" +
+          (minutes ? (minutes > 9 ? minutes : "0" + minutes) : "00") +
+          ":" +
+          (seconds > 9 ? seconds : "0" + seconds);
+
+        // start timer again
+        start();
       }
-      function startWatch() {
-        // START TIMER
-        timer = stopTimeMilliseconds(timer);
-        var startMilliseconds = startTimeMilliseconds();
-        timer = setInterval(function () {
-          var elapsedMilliseconds = getElapsedTimeMilliseconds(
-            startMilliseconds
-          );
-          if (msec < 10) {
-            msec_txt.innerHTML = "00" + msec;
-          } else if (msec < 100) {
-            msec_txt.innerHTML = "0" + msec;
-          } else {
-            msec_txt.innerHTML = msec;
-          }
-          if (sec < 10) {
-            sec_txt.innerHTML = "0" + sec;
-          } else {
-            sec_txt.innerHTML = sec;
-          }
-          min_txt.innerHTML = min;
-          msec = elapsedMilliseconds;
-          if (min >= 59 && sec >= 59 && msec > 900) {
-            timer = stopTimeMilliseconds(timer);
-            return true;
-          }
-          if (sec > 59) {
-            sec = 0;
-            min++;
-          }
-          if (msec > 999) {
-            msec = 0;
-            sec++;
-            startWatch();
-          }
-        }, 10);
+
+      function start() {
+        timer = setTimeout(updateTimer, 1000);
+        startBtn.disabled = true;
       }
-      function stopWatch() {
-        // STOP TIMER
-        timer = stopTimeMilliseconds(timer);
-        return true;
+
+      function stop() {
+        clearTimeout(timer);
+        startBtn.disabled = false;
       }
-      function resetWatch() {
-        // REZERO TIMER
-        timer = stopTimeMilliseconds(timer);
-        msec_txt.innerHTML = "000";
-        msec = 0;
-        sec_txt.innerHTML = "00";
-        sec = 0;
-        min_txt.innerHTML = "0";
-        min = 0;
-        return true;
+
+      function reset() {
+        time.textContent = "00:00:00";
+        seconds = 0;
+        minutes = 0;
+        hours = 0;
+        startBtn.disabled = false;
       }
+
+      window.start = start;
+      window.reset = reset;
+      window.stop = stop;
     </script>
   </body>
 </html>
 ```
+
+**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-captcha-mzyi2n?file=/index.html)**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
