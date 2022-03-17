@@ -36,8 +36,6 @@ console.log(sum(2)(3));  // Outputs 5
 <html>
 
 <head>
-  <meta charset="UTF-8">
-  <title>Show File Data</title>
   <script type="text/javascript">
     function showFileSize() {
       var input, file, extension;
