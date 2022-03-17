@@ -36,6 +36,7 @@ console.log(sum(2)(3));  // Outputs 5
 <html>
 
 <head>
+  <title>JavaScript File Upload Example</title>
   <script type="text/javascript">
     function showFileSize() {
       var input, file, extension;
@@ -84,33 +85,19 @@ File Extension: jpg
     var captcha;
 
     function generateCaptcha() {
-      var a = Math.floor(Math.random() * 10);
-      var b = Math.floor(Math.random() * 10);
-      var c = Math.floor(Math.random() * 10);
-      var d = Math.floor(Math.random() * 10);
-
-      captcha = a.toString() + b.toString() + c.toString() + d.toString();
+      captcha = Math.floor(Math.random() * 1000000);
       document.getElementById("captcha").value = captcha;
     }
-
-    function check() {
-      var input = document.getElementById("inputText").value;
-
-      if (input == captcha) {
-        alert("Valid Captcha");
-      } else {
-        alert("Invalid Captcha");
-      }
-    }
   </script>
+
   <body onload="generateCaptcha()">
     <input type="text" id="captcha" disabled /><br /><br />
-    <input type="text" id="inputText" /><br /><br />
     <button onclick="generateCaptcha()">Refresh</button>
-    <button onclick="check()">Submit</button>
   </body>
 </html>
 ```
+
+**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-captcha-mzyi2n?file=/index.html)**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
