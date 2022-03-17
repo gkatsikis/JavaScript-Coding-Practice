@@ -34,68 +34,42 @@ console.log(sum(2)(3));  // Outputs 5
 ```html
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
-    <title>Show File Data</title>
-    <script type="text/javascript">
-      function showFileSize() {
-        var input, file, extension;
 
-        // (Can't use `typeof FileReader === "function"` because apparently
-        // it comes back as "object" on some browsers. So just see if it's there
-        // at all.)
-        if (!window.FileReader) {
-          bodyAppend("p", "The file API isn't supported on this browser yet.");
-          return;
-        }
+<head>
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+  <title>Show File Data</title>
+  <script type="text/javascript">
+    function showFileSize() {
+      var input, file, extension;
 
-        input = document.getElementById("fileinput");
-        if (!input) {
-          bodyAppend("p", "Um, couldn't find the fileinput element.");
-        } else if (!input.files) {
-          bodyAppend(
-            "p",
-            "This browser doesn't seem to support the `files` property of file inputs."
-          );
-        } else if (!input.files[0]) {
-          bodyAppend("p", "Please select a file before clicking 'Load'");
-        } else {
-          file = input.files[0];
-          extension = file.name.substring(file.name.lastIndexOf(".") + 1);
-          bodyAppend(
-            "p",
-            "File Name: " +
-              file.name +
-              "<br/>File Size: " +
-              file.size +
-              " bytes <br/>File Extension: " +
-              extension
-          );
-        }
-      }
+      input = document.getElementById("fileinput");
 
-      function bodyAppend(tagName, innerHTML) {
-        var elm;
+      file = input.files[0];
+      extension = file.name.substring(file.name.lastIndexOf(".") + 1);
 
-        elm = document.createElement(tagName);
-        elm.innerHTML = innerHTML;
-        document.body.appendChild(elm);
-      }
-    </script>
-  </head>
-  <body>
-    <form action="#" onsubmit="return false;">
-      <input type="file" id="fileinput" />
-      <input
-        type="button"
-        id="btnLoad"
-        value="Load"
-        onclick="showFileSize();"
-      />
-    </form>
-  </body>
+      console.log("File Name: " + file.name);
+      console.log("File Size: " + file.size + " bytes");
+      console.log("File Extension: " + extension);
+    }
+  </script>
+</head>
+
+<body>
+  <form action="#" onsubmit="return false;">
+    <input type="file" id="fileinput" />
+    <input type="button" id="btnLoad" value="Load" onclick="showFileSize();" />
+  </form>
+</body>
 </html>
+
+<!-- Output -->
+
+File Name: pic.jpg 
+File Size: 1159168 bytes 
+File Extension: jpg 
 ```
+
+**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-file-upload-fj17kh?file=/index.html)**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
