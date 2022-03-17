@@ -18,14 +18,12 @@ function sum(x, y) {
     };
   }
 }
-```
 
-Output
-
-```js
 console.log(sum(2,3));   // Outputs 5
 console.log(sum(2)(3));  // Outputs 5
 ```
+
+**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-1-ypmjhl?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
