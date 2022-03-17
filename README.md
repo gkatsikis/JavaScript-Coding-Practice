@@ -41,7 +41,6 @@ console.log(sum(2)(3));  // Outputs 5
       var input, file, extension;
 
       input = document.getElementById("fileinput");
-
       file = input.files[0];
       extension = file.name.substring(file.name.lastIndexOf(".") + 1);
 
