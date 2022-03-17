@@ -177,7 +177,7 @@ File Extension: jpg
 </html>
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-captcha-mzyi2n?file=/index.html)**
+**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-stopwatch-j6in1i?file=/index.html)**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
