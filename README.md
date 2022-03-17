@@ -193,8 +193,12 @@ function reverseString(str) {
   }
   return stringRev;
 }
-alert(reverseString("Pradeep")); // Output: peedarP
+console.log(reverseString("Hello")); 
+
+// Output: olleH
 ```
+
+**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-reversestring-sgm1ip?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -206,7 +210,12 @@ alert(reverseString("Pradeep")); // Output: peedarP
 function isEmpty(obj) {
   return Object.keys(obj).length === 0;
 }
+
+const obj = {};
+console.log(isEmpty(obj)); // true
 ```
+
+**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-isempty-b7n04b?file=/src/index.js)**
 
 ## Q. ***JavaScript Regular Expression to validate Email***
 
