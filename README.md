@@ -8042,3 +8042,62 @@ split(lenth);
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
+
+## Q. ***Write a random integers function to print integers with in a range?***
+
+**Example:**
+
+```js
+/**
+ * function to return a random number 
+ * between min and max range
+ * 
+ * */
+function randomInteger(min, max) {
+  return Math.floor(Math.random() * (max - min + 1) ) + min;
+}
+randomInteger(1, 100); // returns a random integer from 1 to 100
+```
+
+**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-random-integers-yd1cy8?file=/src/index.js)**
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Q. ***How to convert Decimal to Binary in JavaScript?***
+
+**Example 01:** Convert Decimal to Binary
+
+```js
+function DecimalToBinary(number) {
+  let bin = 0;
+  let rem,
+    i = 1;
+  while (number !== 0) {
+    rem = number % 2;
+    number = parseInt(number / 2);
+    bin = bin + rem * i;
+    i = i * 10;
+  }
+  console.log(`Binary: ${bin}`);
+}
+
+DecimalToBinary(10);
+```
+
+**Example 02:** Convert Decimal to Binary Using `toString()`
+
+```js
+let val = 10;
+
+console.log(val.toString(2)); // 1010  ==> Binary Conversion
+console.log(val.toString(8)); // 12  ==> Octal Conversion
+console.log(val.toString(16)); // A  ==> Hexadecimal Conversion
+```
+
+**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-decimal-to-binary-uhyi8t?file=/src/index.js)**
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
