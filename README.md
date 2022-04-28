@@ -8153,3 +8153,76 @@ console.log(check(objStr)); // It is an object of string
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
+
+## Q. ***How do you reversing an array?***
+
+You can use reverse() method is used reverse the elements in an array. This method is useful to sort an array in descending order. Let us see the usage of reverse() method in an example,
+
+```js
+let numbers = [1, 2, 5, 3, 4];
+numbers.sort((a, b) => b - a);
+numbers.reverse();
+console.log(numbers); // [1, 2, 3, 4 ,5]
+```
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Q. ***How do you find min and max value in an array?***
+
+You can use `Math.min` and `Math.max` methods on array variable to find the minimum and maximum elements with in an array. 
+Let us create two functions to find the min and max value with in an array,
+
+```js
+var marks = [50, 20, 70, 60, 45, 30];
+function findMin(arr) {
+  return Math.min.apply(null, arr);
+}
+function findMax(arr) {
+  return Math.max.apply(null, arr);
+}
+
+console.log(findMin(marks));
+console.log(findMax(marks));
+```
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Q. ***How do you find min and max values without Math functions?***
+
+You can write functions which loops through an array comparing each value with the lowest value or highest value to find the min and max values. Let us create those functions to find min an max values,
+
+```js
+var marks = [50, 20, 70, 60, 45, 30];
+function findMin(arr) {
+  var length = arr.length
+  var min = Infinity;
+  while (length--) {
+    if (arr[length] < min) {
+      min = arr[length];
+    }
+  }
+  return min;
+}
+
+function findMax(arr) {
+  var length = arr.length
+  var max = -Infinity;
+  while (length--) {
+    if (arr[length] > max) {
+      max = arr[length];
+    }
+  }
+  return max;
+}
+
+console.log(findMin(marks));
+console.log(findMax(marks));
+```
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
