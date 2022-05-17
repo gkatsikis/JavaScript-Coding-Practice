@@ -8226,3 +8226,66 @@ console.log(findMax(marks));
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
+
+## Q. ***Write code for merge two JavaScript Object dynamically?***
+
+Let say you have two objects
+
+```js
+const person = {
+  name: "Tanvi",
+  age: 28
+};
+
+const address = {
+  addressLine1: "Some Location x",
+  addressLine2: "Some Location y",
+  city: "Bangalore"
+};
+```
+
+Write merge function which will take two object and add all the own property of second object into first object.
+
+```js
+merge(person , address); 
+ 
+/* Now person should have 5 properties 
+name , age , addressLine1 , addressLine2 , city */
+```
+
+**Method 1: Using ES6, Object.assign method:**
+
+```js
+const merge = (toObj, fromObj) => Object.assign(toObj, fromObj);
+
+console.log(merge(person, address));
+// {name: "Tanvi", age: 28, addressLine1: "Some Location x", addressLine2: "Some Location y", city: "Bangalore"}
+```
+
+**Method 2: Without using built-in function:**
+
+```js
+function mergeObject(toObj, fromObj) {
+  // Make sure both of the parameter is an object
+  if (typeof toObj === "object" && typeof fromObj === "object") {
+    for (var pro in fromObj) {
+      // Assign only own properties not inherited properties
+      if (fromObj.hasOwnProperty(pro)) {
+        // Assign property and value
+        toObj[pro] = fromObj[pro];
+      }
+    }
+  } else {
+    throw "Merge function can apply only on object";
+  }
+}
+
+console.log(mergeObject(person, address));
+// {name: "Tanvi", age: 28, addressLine1: "Some Location x", addressLine2: "Some Location y", city: "Bangalore"}
+```
+
+**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-shallow-vs-deep-copy-ik5b7h?file=/src/index.js)**
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
