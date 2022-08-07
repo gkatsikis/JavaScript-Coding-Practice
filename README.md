@@ -8286,6 +8286,27 @@ console.log(mergeObject(person, address));
 
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-shallow-vs-deep-copy-ik5b7h?file=/src/index.js)**
 
+## Q. Predict the output
+
+```js
+function find_max(nums) {
+  let max_num = Number.NEGATIVE_INFINITY; // smaller than all other numbers
+  for (let num of nums) {
+    if (num > max_num) {
+      // (Fill in the missing line here)
+    }
+  }
+ return max_num;
+}
+
+// a.) num = max_num
+// b.) max_num += 1
+// c.) max_num = num
+// d.) max_num += num
+```
+
+**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-code-practice-xjw5n3)**
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
