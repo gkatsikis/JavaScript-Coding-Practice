@@ -26,7 +26,7 @@ console.log(sum(2)(3));  // Outputs 5
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-1-ypmjhl?file=/src/index.js)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How to validate file size and extension before upload?***
@@ -70,7 +70,7 @@ File Extension: jpg
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-file-upload-fj17kh?file=/index.html)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Create captcha using javascript?***
@@ -100,7 +100,7 @@ File Extension: jpg
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-captcha-mzyi2n?file=/index.html)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Create a Stopwatch program in javascript?***
@@ -180,7 +180,7 @@ File Extension: jpg
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-stopwatch-j6in1i?file=/index.html)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Write a program to reverse a string?***
@@ -201,7 +201,7 @@ console.log(reverseString("Hello"));
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-reversestring-sgm1ip?file=/src/index.js)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How to check if object is empty or not in javaScript?***
@@ -218,7 +218,7 @@ console.log(isEmpty(obj)); // true
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-isempty-b7n04b?file=/src/index.js)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***JavaScript Regular Expression to validate Email***
@@ -235,7 +235,7 @@ console.log(validateEmail("pradeep.vwa@gmail.com")); // true
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-validateemail-wfopym?file=/src/index.js)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Use RegEx to test password strength in JavaScript?***
@@ -270,7 +270,7 @@ PASS
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cp-password-strength-cxl8xy)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How to compare objects ES6?***
@@ -322,7 +322,7 @@ JSON.stringify(one) === JSON.stringify(two); // false
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How to remove array element based on object property?***
@@ -351,7 +351,7 @@ myArray = [
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Predict the output of the following JavaScript code?***
@@ -388,7 +388,7 @@ console.log(x); // Output: 10
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Predict the output of the following JavaScript code?***
@@ -414,7 +414,7 @@ console.log(1 + -"1" + 2); // Output: 2
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Predict the output of the following JavaScript code?***
@@ -429,7 +429,7 @@ getNumber(); // Output: undefined
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Predict the output of the following JavaScript code?***
@@ -481,7 +481,7 @@ console.log(k); // Output: 1undefined
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Predict the output of the following JavaScript code?***
@@ -519,7 +519,7 @@ console.log("(a % b): " + (a % b)); // Output: 4
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Predict the output of the following JavaScript code?***
@@ -559,7 +559,7 @@ myObject.func();
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Predict the output of the following JavaScript code?***
@@ -608,7 +608,7 @@ console.log("A" - "B" + 2); // Output: NaN
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Predict the output of the following JavaScript code?***
@@ -645,7 +645,7 @@ console.log("1 && 2 = " + (1 && 2)); // Output: 2
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Predict the output of the following JavaScript code?***
@@ -688,7 +688,7 @@ console.log(
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Predict the output of the following JavaScript code?***
@@ -727,7 +727,7 @@ obj.method(fn, 1);
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Predict the output of the following JavaScript code?***
@@ -788,7 +788,7 @@ outer();
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Hoisting example in javascript?***
@@ -814,7 +814,7 @@ o.constructor === F;
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Predict the output of the following JavaScript code?***
@@ -890,7 +890,7 @@ for (var i = 1; i <= 15; i++) {
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What will be the output of the following code?***
@@ -921,7 +921,7 @@ console.log(output);
 The code above will output `1` as output. `delete` operator is used to delete a property from an object. Here `x` is not an object it's **global variable** of type `number`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What will be the output of the following code?***
@@ -954,7 +954,7 @@ The code above will output `xyz` as output. Here `emp1` object got company as **
 `emp1` object doesn't have **company** as its own property. you can test it `console.log(emp1.hasOwnProperty('company')); //output : false` However, we can delete company property directly from `Employee` object using `delete Employee.company` or we can also delete from `emp1` object using `__proto__` property `delete emp1.__proto__.company`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What will be the output of the following code?***
@@ -989,7 +989,7 @@ The code above will output `1, "truexyz", 2, 1` as output. Here's a general guid
 - String + String -> Concatenation
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What will be the output of the following code?***
@@ -1055,7 +1055,7 @@ var foo = function bar() {
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output of the following?***
@@ -1109,7 +1109,7 @@ var salary = "1000$";
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of the following code?***
@@ -1142,7 +1142,7 @@ foo["location"] = "USA";
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1158,7 +1158,7 @@ The output will `'hi there'` because we're dealing with strings here. Strings ar
 passed by value, that is, copied.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1191,7 +1191,7 @@ However, when we reassign `objB` to an empty object, we simply change where `obj
 This doesn't affect where `objA` variable references to.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1224,7 +1224,7 @@ The `slice` function copies all the elements of the array returning the new arra
 `arrA` and `arrB` reference two completely different arrays.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1288,7 +1288,7 @@ two elements.
 This is why changing the property of `arrB[0]` in `arrB` will also change the `arrA[0]`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***console.log(employeeId);***
@@ -1332,7 +1332,7 @@ var employeeId = "1234abe";
 _Answer:_ 2) undefined
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1374,7 +1374,7 @@ _Answer:_ 2) undefined
 _Answer:_ 1) undefined
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1419,7 +1419,7 @@ console.log(employeeId);
 _Answer:_ 3) 'abc123'
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1468,7 +1468,7 @@ foo();
 _Answer:_ 1) undefined
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1496,7 +1496,7 @@ _Answer:_ 1) undefined
 _Answer:_ 3) function function
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1528,7 +1528,7 @@ _Answer:_ 3) function function
 _Answer:_ 3) ["name", "salary", "country", "phoneNo"]
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1560,7 +1560,7 @@ _Answer:_ 3) ["name", "salary", "country", "phoneNo"]
 _Answer:_ 4) ["name", "salary", "country"]
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1606,7 +1606,7 @@ _Answer:_ 2) false false
 _Answer:_ 2) false false
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1652,7 +1652,7 @@ _Answer:_ 2) false false
 _Answer:_ 2) false false
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1698,7 +1698,7 @@ _Answer:_ 4) true true
 _Answer:_ 3) true true true true
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1746,7 +1746,7 @@ _Answer:_ 2) bar bar
 _Answer:_ 3) foo foo
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1790,7 +1790,7 @@ _Answer:_ 2) undefined undefined
 _Answer:_ 3) ["100"] 1
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1833,7 +1833,7 @@ _Answer:_ 1) [] [] [Array[5]] 1
 _Answer:_ 1) 11
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1873,7 +1873,7 @@ _Answer:_ 3) 6
 _Answer:_ 1) [ 'dog', 'rat', 'goat', 'cow', 'horse', 'cat' ]
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1914,7 +1914,7 @@ _Answer:_ 1) 1 -1 -1 4
 _Answer:_ 2) 1 6 -1
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -1981,7 +1981,7 @@ _Answer:_ 1) [ 2, '12', true ]
 [ 2, '12', true ]
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2043,7 +2043,7 @@ _Answer:_ 1) [ 'bar', 'john', 'ritz' ]
 _Answer:_ 1. [ 'bar', 'john' ] [] [ 'foo' ]
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2089,7 +2089,7 @@ console.log(funcA());
 _Answer:_ 1)
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2133,7 +2133,7 @@ console.log(obj.innerMessage());
 _Answer:_ 1) Hello
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2180,7 +2180,7 @@ console.log(obj.innerMessage());
 _Answer:_ 2) 'Hello'
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2220,7 +2220,7 @@ console.log(myFunc());
 _Answer:_ 2) 'Hi John'
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2259,7 +2259,7 @@ console.log(myFunc("a", "b", "c", "d"));
 _Answer:_ a) 2 2 2
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2309,7 +2309,7 @@ Person.displayName();
 _Answer:_ 1) John Person
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2353,7 +2353,7 @@ console.log(Employee.employeeId);
 _Answer:_ 4) undefined
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2400,7 +2400,7 @@ var employeeId = "aq123";
 _Answer:_ 1) foo123 aq123
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2454,7 +2454,7 @@ _Answer:_ 4) [ 'W', 'o', 'r', 'l', 'd' ]
 _Answer:_ 1) Total amount left in account: 5600 Total amount left in account: 5300
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2490,7 +2490,7 @@ _Answer:_ 1) Total amount left in account: 5600 Total amount left in account: 53
 _Answer:_ 1) 5600 5300 5100
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2526,7 +2526,7 @@ _Answer:_ 1) 5600 5300 5100
 _Answer:_ 2) 3600 3300 3100
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2571,7 +2571,7 @@ getDataFromServer("www.google.com").then(function (name) {
 _Answer:_ 1) John
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2621,7 +2621,7 @@ _Answer:_ 1) [ 2, 8, 15, 16, 23, 42 ]
 [ 2, 8, 15, 16, 23, 42 ]
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2665,7 +2665,7 @@ console.log(numb);
 _Answer:_ 1) 5
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2712,7 +2712,7 @@ console.log(mul(2)(3)[1](4));
 _Answer:_ 1) 6, 10
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What would be the output of following code?***
@@ -2764,7 +2764,7 @@ console.log(mul(2)(3)(4)(5)(6));
 _Answer:_ 1) 720
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the value of `foo`?***
@@ -2808,7 +2808,7 @@ add()()(2)(5); // 7
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What value is returned from the following statement?***
@@ -2844,7 +2844,7 @@ _Answer:_
 - Second: Throws an exception, `ReferenceError: bar is not defined`
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the value of `foo.length`?***
@@ -2874,7 +2874,7 @@ to an original object, `{n: 1}`. So, when the result of the right term, `{n: 2}`
 moment referenced by `bar`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What does the following code print?***
@@ -2915,7 +2915,7 @@ console.log(countCharacters("the brown fox jumps over the lazy dog"));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the value of `foo`?***
@@ -2959,7 +2959,7 @@ add()()(2)(5); // 7
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What value is returned from the following statement?***
@@ -3005,7 +3005,7 @@ foo.push(2);
 _Answer:_ `.push` is mutable - `2`
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the value of `foo.x`?***
@@ -3025,7 +3025,7 @@ to an original object, `{n: 1}`. So, when the result of the right term, `{n: 2}`
 moment referenced by `bar`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What does the following code print?***
@@ -3075,7 +3075,7 @@ f = g = 0;
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What will be the output?***
@@ -3150,7 +3150,7 @@ try {
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What will the following code output?***
@@ -3187,7 +3187,7 @@ console.log(emp1.company);
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Make this work:
@@ -3205,7 +3205,7 @@ duplicate([1, 2, 3, 4, 5]); // [1,2,3,4,5,1,2,3,4,5]
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Fix the bug using ES5 only?***
@@ -3238,7 +3238,7 @@ for (var i = 0; i < arr.length; i++) {
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What will be the output of the following code?***
@@ -3269,7 +3269,7 @@ console.log(result); // 200<br>4<br>40<br>
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What will be the output of the following code?***
@@ -3306,7 +3306,7 @@ console.log([...country]);
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Given and object and property path. Get value from property path***
@@ -3342,7 +3342,7 @@ path = "system.database.1.port";
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How to filter object from Arrays of Objects***
@@ -3360,7 +3360,7 @@ str = str.replace(/test/g, "");
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Write a script that returns the number of occurrences of character given a string as input***
@@ -3384,7 +3384,7 @@ console.log(countCharacters("the brown fox jumps over the lazy dog"));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***write a script that return the number of occurrences of a character in paragraph***
@@ -3406,7 +3406,7 @@ console.log(charCount("the brown fox jumps over the lazy dog", "o"));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Recursive and non-recursive Factorial function***
@@ -3443,7 +3443,7 @@ console.log(factorial(5));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Recursive and non recursive fibonacci-sequence***
@@ -3501,7 +3501,7 @@ console.log(min + Math.floor(Math.random() * (max - min + 1)));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Get HTML form values as JSON object***
@@ -3526,7 +3526,7 @@ document.querySelector("HTML_FORM_CLASS").elements;
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Reverse the number***
@@ -3546,7 +3546,7 @@ console.log(reverse(12345));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Remove Duplicate elements from Array***
@@ -3582,7 +3582,7 @@ console.log([...new Set(arr)]);
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Deep copy of object or clone of object***
@@ -3621,7 +3621,7 @@ console.log(deepExtend({}, { a: 1, b: { c: 2, d: 3 } }, { e: 4, b: { f: 1 } }));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Sort ticket based on flying order.***
@@ -3672,7 +3672,7 @@ new SortTickets({
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Cuncurrent execute function based on input number***
@@ -3722,7 +3722,7 @@ c.start();
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Reversing an array***
@@ -3782,7 +3782,7 @@ console.log(topN([1, 8, 3, 4, 5], 2)); // [5,8]
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Get query params from Object***
@@ -3811,7 +3811,7 @@ console.log(
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Consecutive 1's in binary***
@@ -3838,7 +3838,7 @@ console.log(consecutiveOne(5)); //1
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Spiral travesal of matrix***
@@ -3885,7 +3885,7 @@ console.log(spiralTraversal(input)); // [1, 2, 3, 4, 8, 12, 16, 15, 14, 13, 9, 5
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Merge Sorted array and sort it.***
@@ -3899,7 +3899,7 @@ console.log(mergeSortedArray([1, 2, 3, 4, 5, 6], [0, 3, 4, 7])); // [0, 1, 2, 3,
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Anagram of words***
@@ -3931,7 +3931,7 @@ console.log(
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Print the largest (maximum) hourglass sum found in 2d array.***
@@ -3961,7 +3961,7 @@ function main(arr) {
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Transform array of object to array***
@@ -3995,7 +3995,7 @@ console.log(Object.keys(newData).map((key) => newData[key]));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Create a private variable or private method in object***
@@ -4020,7 +4020,7 @@ obj.callPrivateFunction(); // this is private function
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Flatten only Array not objects***
@@ -4075,7 +4075,7 @@ console.log(flattenIterative1(list2)); // [0, 1, 2, 3, 4, 5]
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Find max difference between two number in Array***
@@ -4105,7 +4105,7 @@ let a = 10,
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Panagram ? it means all the 26 letters of alphabet are there***
@@ -4135,7 +4135,7 @@ processData("We promptly judged antique ivory buckles for the prize"); // Not Pa
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Given two identical DOM trees (not the same one), and a node from one of them find the node in the other one.***
@@ -4170,7 +4170,7 @@ console.log(locateNodeFromPath(rootB, getPath(rootA, target)));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Convert a number into a Roman Numeral***
@@ -4206,7 +4206,7 @@ console.log(romanize(3)); // III
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***check if parenthesis is malformed or not***
@@ -4238,7 +4238,7 @@ console.log(matchParenthesis("}{{}}"), matchParenthesis("{{[]}}")); // false - t
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Create Custom Event Emitter class***
@@ -4276,7 +4276,7 @@ e.emit("callme", ["a", "b"], { firstName: "umesh", lastName: "gohil" });
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Max value from an array***
@@ -4289,7 +4289,7 @@ Math.max.apply(Math, arr); // Slow
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***DOM methods***
@@ -4328,7 +4328,7 @@ el.style    // get the style of el
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***search function called after 500 ms***
@@ -4351,7 +4351,7 @@ search.addEventListener("keyup", function () {
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Move all zero's to end***
@@ -4373,7 +4373,7 @@ console.log(moveZeroToEnd([1, 8, 2, 0, 0, 0, 3, 4, 0, 5, 0])); // [1, 8, 2, 3, 4
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Decode message in matrix [diagional down right, diagional up right]***
@@ -4422,7 +4422,7 @@ console.log(decodeMessage(mat)); //IROELEA
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***find a pair in array, whose sum is equal to given number.***
@@ -4473,7 +4473,7 @@ console.log(hasPairSum([6, 4, 3, 8], 8));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Binary Search [Array should be sorted]***
@@ -4501,7 +4501,7 @@ console.log(binarySearch([-1, 10, 22, 35, 48, 56, 67], 27));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Pascal triangle.***
@@ -4523,7 +4523,7 @@ console.log(pascalTriangle(2));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Explain the code below. How many times the createVal function is called?***
@@ -4551,7 +4551,7 @@ VM298:6 5
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -4579,7 +4579,7 @@ Within the function, we first declare the `name` variable with the `var` keyword
 Variables with the `let` keyword (and `const`) are hoisted, but unlike `var`, don't get <i>initialized</i>. They are not accessible before the line we declare (initialize) them. This is called the "temporal dead zone". When we try to access the variables before they are declared, JavaScript throws a `ReferenceError`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -4605,7 +4605,7 @@ Because of the event queue in JavaScript, the `setTimeout` callback function is 
 In the second loop, the variable `i` was declared using the `let` keyword: variables declared with the `let` (and `const`) keyword are block-scoped (a block is anything between `{ }`). During each iteration, `i` will have a new value, and each value is scoped inside the loop.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -4637,7 +4637,7 @@ With arrow functions, the `this` keyword refers to its current surrounding scope
 There is no value `radius` on that object, which returns `undefined`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -4658,7 +4658,7 @@ The unary plus tries to convert an operand to a number. `true` is `1`, and `fals
 The string `'Lydia'` is a truthy value. What we're actually asking, is "is this truthy value falsy?". This returns `false`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Which one is true?***
@@ -4690,7 +4690,7 @@ JavaScript interprets (or unboxes) statements. When we use bracket notation, it 
 However, with dot notation, this doesn't happen. `mouse` does not have a key called `bird`, which means that `mouse.bird` is `undefined`. Then, we ask for the `size` using dot notation: `mouse.bird.size`. Since `mouse.bird` is `undefined`, we're actually asking `undefined.size`. This isn't valid, and will throw an error similar to `Cannot read property "size" of undefined`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -4721,7 +4721,7 @@ First, variable `c` holds a value to an object. Later, we assign `d` with the sa
 When you change one object, you change all of them.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -4750,7 +4750,7 @@ When we use the `==` operator, it only checks whether it has the same _value_. T
 However, when we use the `===` operator, both value _and_ type should be the same. It's not: `new Number()` is not a number, it's an **object**. Both return `false.`
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -4781,7 +4781,7 @@ console.log(freddie.colorChange("orange"));
 The `colorChange` function is static. Static methods are designed to live only on the constructor in which they are created, and cannot be passed down to any children. Since `freddie` is a child, the function is not passed down, and not available on the `freddie` instance: a `TypeError` is thrown.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -4803,7 +4803,7 @@ It logs the object, because we just created an empty object on the global object
 In order to avoid this, we can use `"use strict"`. This makes sure that you have declared a variable before setting it equal to anything.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What happens when we do this?***
@@ -4828,7 +4828,7 @@ This is possible in JavaScript, because functions are objects! (Everything besid
 A function is a special type of object. The code you write yourself isn't the actual function. The function is an object with properties. This property is invocable.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -4865,7 +4865,7 @@ Person.prototype.getFullName = function () {
 would have made `member.getFullName()` work. Why is this beneficial? Say that we added this method to the constructor itself. Maybe not every `Person` instance needed this method. This would waste a lot of memory space, since they would still have that property, which takes of memory space for each instance. Instead, if we only add it to the prototype, we just have it at one spot in memory, yet they all have access to it!
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -4895,7 +4895,7 @@ For `sarah`, we didn't use the `new` keyword. When using `new`, it refers to the
 We said that `this.firstName` equals `"Sarah"` and `this.lastName` equals `"Smith"`. What we actually did, is defining `global.firstName = 'Sarah'` and `global.lastName = 'Smith'`. `sarah` itself is left `undefined`, since we don't return a value from the `Person` function.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What are the three phases of event propagation?***
@@ -4912,7 +4912,7 @@ During the **capturing** phase, the event goes through the ancestor elements dow
 <img src="https://i.imgur.com/N18oRgd.png" width="200">
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***All object have prototypes.***
@@ -4925,7 +4925,7 @@ During the **capturing** phase, the event goes through the ancestor elements dow
 All objects have prototypes, except for the **base object**. The base object is the object created by the user, or an object that is created using the `new` keyword. The base object has access to some methods and properties, such as `.toString`. This is the reason why you can use built-in JavaScript methods! All of such methods are available on the prototype. Although JavaScript can't find it directly on your object, it goes down the prototype chain and finds it there, which makes it accessible for you.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -4950,7 +4950,7 @@ JavaScript is a **dynamically typed language**: we don't specify what types cert
 In this example, JavaScript converts the number `1` into a string, in order for the function to make sense and return a value. During the addition of a numeric type (`1`) and a string type (`'2'`), the number is treated as a string. We can concatenate strings like `"Hello" + "World"`, so What is happening here is `"1" + "2"` which returns `"12"`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -4982,7 +4982,7 @@ The **prefix** unary operator `++`:
 This returns `0 2 2`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5009,7 +5009,7 @@ getPersonInfo`${person} is ${age} years old`;
 If you use tagged template literals, the value of the first argument is always an array of the string values. The remaining arguments get the values of the passed expressions!
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5041,7 +5041,7 @@ The two objects that we are comparing don't have that: the object we passed as a
 This is why both `{ age: 18 } === { age: 18 }` and `{ age: 18 } == { age: 18 }` return `false`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5064,7 +5064,7 @@ getAge(21);
 The rest parameter (`...args`.) lets us "collect" all remaining arguments into an array. An array is an object, so `typeof args` returns `"object"`
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5089,7 +5089,7 @@ getAge();
 With `"use strict"`, you can make sure that you don't accidentally declare global variables. We never declared the variable `age`, and since we use `"use strict"`, it will throw a reference error. If we didn't use `"use strict"`, it would have worked, since the property `age` would have gotten added to the global object.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is value of `sum`?***
@@ -5108,7 +5108,7 @@ const sum = eval("10*10+5");
 `eval` evaluates codes that's passed as a string. If it's an expression, like in this case, it evaluates the expression. The expression is `10 * 10 + 5`. This returns the number `105`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How long is cool_secret accessible?***
@@ -5129,7 +5129,7 @@ The data stored in `sessionStorage` is removed after closing the _tab_.
 If you used `localStorage`, the data would've been there forever, unless for example `localStorage.clear()` is invoked.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5152,7 +5152,7 @@ With the `var` keyword, you can declare multiple variables with the same name. T
 You cannot do this with `let` or `const` since they're block-scoped.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5179,7 +5179,7 @@ All object keys (excluding Symbols) are strings under the hood, even if you don'
 It doesn't work that way for a set. There is no `'1'` in our set: `set.has('1')` returns `false`. It has the numeric type `1`, `set.has(1)` returns `true`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5199,7 +5199,7 @@ console.log(obj);
 If you have two keys with the same name, the key will be replaced. It will still be in its first position, but with the last specified value.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***The JavaScript global execution context creates two things for you: the global object, and the "this" keyword.***
@@ -5213,7 +5213,7 @@ If you have two keys with the same name, the key will be replaced. It will still
 The base execution context is the global execution context: it's What is accessible everywhere in your code.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5235,7 +5235,7 @@ for (let i = 1; i < 5; i++) {
 The `continue` statement skips an iteration if a certain condition returns `true`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5260,7 +5260,7 @@ name.giveLydiaPizza();
 `String` is a built-in constructor, which we can add properties to. I just added a method to its prototype. Primitive strings are automatically converted into a string object, generated by the string prototype function. So, all strings (string objects) have access to that method!
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5290,7 +5290,7 @@ However, when we stringify an object, it becomes `"[Object object]"`. So what we
 Then, we log `a[b]`, which is actually `a["Object object"]`. We just set that to `456`, so it returns `456`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5339,7 +5339,7 @@ This is where an event loop starts to work. An **event loop** looks at the stack
 `bar` gets invoked, `"Second"` gets logged, and it's popped off the stack.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the event.target when clicking the button?***
@@ -5362,7 +5362,7 @@ This is where an event loop starts to work. An **event loop** looks at the stack
 The deepest nested element that caused the event is the target of the event. You can stop bubbling by `event.stopPropagation`
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***When you click the paragraph, What is the logged output?***
@@ -5383,7 +5383,7 @@ The deepest nested element that caused the event is the target of the event. You
 If we click `p`, we see two logs: `p` and `div`. During event propagation, there are 3 phases: capturing, target, and bubbling. By default, event handlers are executed in the bubbling phase (unless you set `useCapture` to `true`). It goes from the deepest nested element outwards.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5411,7 +5411,7 @@ With both, we can pass the object to which we want the `this` keyword to refer t
 `.bind.` returns a _copy_ of the function, but with a bound context! It is not executed immediately.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5436,7 +5436,7 @@ The `sayHi` function returns the returned value of the immediately invoked funct
 FYI: there are only 7 built-in types: `null`, `undefined`, `boolean`, `number`, `string`, `object`, and `symbol`. `"function"` is not a type, since functions are objects, it's of type `"object"`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Which of these values are falsy?***
@@ -5469,7 +5469,7 @@ There are only six falsy values:
 Function constructors, like `new Number` and `new Boolean` are truthy.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5489,7 +5489,7 @@ console.log(typeof typeof 1);
 `typeof "number"` returns `"string"`
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5514,7 +5514,7 @@ When you set a value to an element in an array that exceeds the length of the ar
 depending on where you run it (it's different for every browser, node, etc.)
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5547,7 +5547,7 @@ Later, we set this block-scoped variable equal to `1`, and set the value of the 
 Outside of the `catch` block, `x` is still `undefined`, and `y` is `2`. When we want to `console.log(x)` outside of the `catch` block, it returns `undefined`, and `y` returns `2`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Everything in JavaScript is either a...***
@@ -5566,7 +5566,7 @@ Primitive types are `boolean`, `null`, `undefined`, `bigint`, `number`, `string`
 What differentiates a primitive from an object is that primitives do not have any properties or methods; however, you'll note that `'foo'.toUpperCase()` evaluates to `'FOO'` and does not result in a `TypeError`. This is because when you try to access a property or method on a primitive like a string, JavaScript will implicitly wrap the object using one of the wrapper classes, i.e. `String`, and then immediately discard the wrapper after the expression evaluates. All primitives except for `null` and `undefined` exhibit this behaviour.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5595,7 +5595,7 @@ What differentiates a primitive from an object is that primitives do not have an
 Then, `[1, 2, 0, 1]` is `acc` and `[2, 3]` is `cur`. We concatenate them, and get `[1, 2, 0, 1, 2, 3]`
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5620,7 +5620,7 @@ Then, `[1, 2, 0, 1]` is `acc` and `[2, 3]` is `cur`. We concatenate them, and ge
 `1` is truthy. `!1` returns `false`. `!false` returns `true`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What does the `setInterval` method return in the browser?***
@@ -5639,7 +5639,7 @@ setInterval(() => console.log("Hi"), 1000);
 It returns a unique id. This id can be used to clear that interval with the `clearInterval()` function.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What does this return?***
@@ -5658,7 +5658,7 @@ It returns a unique id. This id can be used to clear that interval with the `cle
 A string is an iterable. The spread operator maps every character of an iterable to one element.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5689,7 +5689,7 @@ First, we initialize the generator function with `i` equal to `10`. We invoke th
 Then, we invoke the function again with the `next()` method. It starts to continue where it stopped previously, still with `i` equal to `10`. Now, it encounters the next `yield` keyword, and yields `i * 2`. `i` is equal to `10`, so it returns `10 * 2`, which is `20`. This results in `10, 20`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What does this return?***
@@ -5716,7 +5716,7 @@ Promise.race([firstPromise, secondPromise]).then((res) => console.log(res));
 When we pass multiple promises to the `Promise.race` method, it resolves/rejects the _first_ promise that resolves/rejects. To the `setTimeout` method, we pass a timer: 500ms for the first promise (`firstPromise`), and 100ms for the second promise (`secondPromise`). This means that the `secondPromise` resolves first with the value of `'two'`. `res` now holds the value of `'two'`, which gets logged.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5751,7 +5751,7 @@ Then, we set the variable `person` equal to `null`.
 We are only modifying the value of the `person` variable, and not the first element in the array, since that element has a different (copied) reference to the object. The first element in `members` still holds its reference to the original object. When we log the `members` array, the first element still holds the value of the object, which gets logged.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5777,7 +5777,7 @@ for (const item in person) {
 With a `for-in` loop, we can iterate through object keys, in this case `name` and `age`. Under the hood, object keys are strings (if they're not a Symbol). On every loop, we set the value of `item` equal to the current key it’s iterating over. First, `item` is equal to `name`, and gets logged. Then, `item` is equal to `age`, which gets logged.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5800,7 +5800,7 @@ Operator associativity is the order in which the compiler evaluates the expressi
 `7 + '5'` results in `"75"` because of coercion. JavaScript converts the number `7` into a string, see question 15. We can concatenate two strings using the `+`operator. `"7" + "5"` results in `"75"`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the value of `num`?***
@@ -5821,7 +5821,7 @@ Only the first numbers in the string is returned. Based on the _radix_ (the seco
 `*` is not a valid number. It only parses `"7"` into the decimal `7`. `num` now holds the value of `7`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output`?***
@@ -5845,7 +5845,7 @@ When mapping over the array, the value of `num` is equal to the element it’s c
 However, we don’t return a value. When we don’t return a value from the function, the function returns `undefined`. For every element in the array, the function block gets called, so for each element we return `undefined`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5878,7 +5878,7 @@ The variable `birthYear` has a reference to the value `"1997"`. The argument `ye
 The value of `person` is an object. The argument `member` has a (copied) reference to the _same_ object. When we modify a property of the object `member` has a reference to, the value of `person` will also be modified, since they both have a reference to the same object. `person`'s `name` property is now equal to the value `"Lydia"`
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5912,7 +5912,7 @@ With the `throw` statement, we can create custom errors. With this statement, yo
 With the `catch` statement, we can specify what to do if an exception is thrown in the `try` block. An exception is thrown: the string `'Hello world'`. `e` is now equal to that string, which we log. This results in `'Oh an error: Hello world'`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5937,7 +5937,7 @@ console.log(myCar.make);
 When you return a property, the value of the property is equal to the _returned_ value, not the value set in the constructor function. We return the string `"Maserati"`, so `myCar.make` is equal to `"Maserati"`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -5972,7 +5972,7 @@ Then, we declare a variable `x` with the value of `y`, which is `10`. Variables 
 However, we created a global variable `y` when setting `y` equal to `10`. This value is accessible anywhere in our code. `y` is defined, and holds a value of type `"number"`. `console.log(typeof y)` returns `"number"`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6009,7 +6009,7 @@ We can delete properties from objects using the `delete` keyword, also on the pr
 When we try to invoke something that is not a function, a `TypeError` is thrown. In this case `TypeError: pet.bark is not a function`, since `pet.bark` is `undefined`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6032,7 +6032,7 @@ The `Set` object is a collection of _unique_ values: a value can only occur once
 We passed the iterable `[1, 1, 2, 3, 4]` with a duplicate value `1`. Since we cannot have two of the same values in a set, one of them is removed. This results in `{1, 2, 3, 4}`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6064,7 +6064,7 @@ An imported module is _read-only_: you cannot modify the imported module. Only t
 When we try to increment the value of `myCounter`, it throws an error: `myCounter` is read-only and cannot be modified.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6089,7 +6089,7 @@ The `delete` operator returns a boolean value: `true` on a successful deletion, 
 The `name` variable was declared with a `const` keyword, so its deletion is not successful: `false` is returned. When we set `age` equal to `21`, we actually added a property called `age` to the global object. You can successfully delete properties from objects this way, also the global object, so `delete age` returns `true`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6127,7 +6127,7 @@ The value of `a` is now `1`, and the value of `b` is now `2`. What we actually d
 This means that the value of `y` is equal to the first value in the array, which is the number `1`. When we log `y`, `1` is returned.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6149,7 +6149,7 @@ console.log(admin);
 It's possible to combine objects using the spread operator `...`. It lets you create copies of the key/value pairs of one object, and add them to another object. In this case, we create copies of the `user` object, and add them to the `admin` object. The `admin` object now contains the copied key/value pairs, which results in `{ admin: true, name: "Lydia", age: 21 }`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6175,7 +6175,7 @@ With the `defineProperty` method, we can add new properties to an object, or mod
 Properties added using the `defineProperty` method are immutable by default. You can override this behavior using the `writable`, `configurable` and `enumerable` properties. This way, the `defineProperty` method gives you a lot more control over the properties you're adding to an object.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6205,7 +6205,7 @@ If the replacer is an _array_, only the property names included in the array wil
 If the replacer is a _function_, this function gets called on every property in the object you're stringifying. The value returned from this function will be the value of the property when it's added to the JSON string. If the value is `undefined`, this property is excluded from the JSON string.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6235,7 +6235,7 @@ The unary operator `++` _first returns_ the value of the operand, _then incremen
 `num2` is `10`, since we passed `num1` to the `increasePassedNumber`. `number` is equal to `10`(the value of `num1`. Again, the unary operator `++` _first returns_ the value of the operand, _then increments_ the value of the operand. The value of `number` is `10`, so `num2` is equal to `10`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6269,7 +6269,7 @@ The third time we invoke multiply, we do pass an argument: the object called `va
 The fourth time, we pass the `value` object again. `x.number` was previously modified to `20`, so `x.number *= 2` logs `40`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6302,7 +6302,7 @@ On the fourth call, we again don't return from the callback function. The accumu
 ---
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***With which constructor can we successfully extend the `Dog` class?***
@@ -6351,7 +6351,7 @@ With the `super` keyword, we call that parent class's constructor with the given
 The `Labrador` class receives two arguments, `name` since it extends `Dog`, and `size` as an extra property on the `Labrador` class. They both need to be passed to the constructor function on `Labrador`, which is done correctly using constructor 2.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6379,7 +6379,7 @@ With the `import` keyword, all imported modules are _pre-parsed_. This means tha
 This is a difference between `require()` in CommonJS and `import`! With `require()`, you can load dependencies on demand while the code is being run. If we would have used `require` instead of `import`, `running index.js`, `running sum.js`, `3` would have been logged to the console.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6400,7 +6400,7 @@ console.log(Symbol("foo") === Symbol("foo"));
 Every Symbol is entirely unique. The purpose of the argument passed to the Symbol is to give the Symbol a description. The value of the Symbol is not dependent on the passed argument. As we test equality, we are creating two entirely new symbols: the first `Symbol('foo')`, and the second `Symbol('foo')`. These two values are unique and not equal to each other, `Symbol('foo') === Symbol('foo')` returns `false`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6423,7 +6423,7 @@ With the `padStart` method, we can add padding to the beginning of a string. The
 If the argument passed to the `padStart` method is smaller than the length of the array, no padding will be added.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6442,7 +6442,7 @@ console.log("🥑" + "💻");
 With the `+` operator, you can concatenate strings. In this case, we are concatenating the string `"🥑"` with the string `"💻"`, resulting in `"🥑💻"`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How can we log the values that are commented out after the console.log statement?***
@@ -6475,7 +6475,7 @@ Every line is executed, until it finds the first `yield` keyword. There is a `yi
 When we call `game.next("Yes").value`, the previous `yield` is replaced with the value of the parameters passed to the `next()` function, `"Yes"` in this case. The value of the variable `answer` is now equal to `"Yes"`. The condition of the if-statement returns `false`, and `JavaScript loves you back ❤️` gets logged.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6506,7 +6506,7 @@ With `String.raw`, it would simply ignore the escape and print:
 In this case, the string is `Hello\nworld`, which gets logged.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6536,7 +6536,7 @@ If we wanted to get access to the resolved value `"I made it"`, we could have us
 This would've logged `"I made it!"`
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6562,7 +6562,7 @@ The `.push()` method returns the _length_ of the new array! Previously, the arra
 The `push` method modifies the original array. If you wanted to return the _array_ from the function rather than the _length of the array_, you should have returned `list` after pushing `item` to it.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6592,7 +6592,7 @@ When we create the variable `shape` and set it equal to the frozen object `box`,
 Since `shape` is frozen, and since the value of `x` is not an object, we cannot modify the property `x`. `x` is still equal to `10`, and `{ x: 10, y: 20 }` gets logged.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6617,7 +6617,7 @@ With `{ name: myName }`, we tell JavaScript that we want to create a new variabl
 Since we try to log `name`, a variable that is not defined, a ReferenceError gets thrown.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Is this a pure function?***
@@ -6638,7 +6638,7 @@ A pure function is a function that _always_ returns the same result, if the same
 The `sum` function always returns the same result. If we pass `1` and `2`, it will _always_ return `3` without side effects. If we pass `5` and `10`, it will _always_ return `15`, and so on. This is the definition of a pure function.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6681,7 +6681,7 @@ The second time, the `cache` object contains the value that gets returned for `1
 The third time, we pass `5 * 2` to the function which gets evaluated to `10`. The `cache` object contains the value that gets returned for `10`. The condition of the if-statement `num in cache` returns `true`, and `'From cache! 20'` gets logged.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6714,7 +6714,7 @@ Where the keys are the enumerable properties. `0` `1` `2` `3` get logged.
 With a _for-of_ loop, we can iterate over **iterables**. An array is an iterable. When we iterate over the array, the variable "item" is equal to the element it's currently iterating over, `"☕"` ` "💻"` `"🍷"` `"🍫"` get logged.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6736,7 +6736,7 @@ Array elements can hold any value. Numbers, strings, objects, other arrays, null
 The element will be equal to the returned value. `1 + 2` returns `3`, `1 * 2` returns `2`, and `1 / 2` returns `0.5`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6765,7 +6765,7 @@ In ES6, we can overwrite this default `undefined` value with default parameters.
 In this case, if we didn't pass a value or if we passed `undefined`, `name` would always be equal to the string `Lydia`
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6800,7 +6800,7 @@ The value of the `this` keyword is dependent on where you use it. In a **method*
 With the `call` method, we can change the object to which the `this` keyword refers. In **functions**, the `this` keyword refers to the _the object that the function belongs to_. We declared the `setTimeout` function on the _global object_, so within the `setTimeout` function, the `this` keyword refers to the _global object_. On the global object, there is a variable called _status_ with the value of `"😎"`. When logging `this.status`, `"😎"` gets logged.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6833,7 +6833,7 @@ Then, we set `city` equal to the string `"Amsterdam"`. This doesn't change the p
 When logging the `person` object, the unmodified object gets returned.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6862,7 +6862,7 @@ console.log(checkAge(21));
 Variables with the `const` and `let` keyword are _block-scoped_. A block is anything between curly brackets (`{ }`). In this case, the curly brackets of the if/else statements. You cannot reference a variable outside of the block it's declared in, a ReferenceError gets thrown.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What kind of information would get logged?***
@@ -6883,7 +6883,7 @@ fetch("https://www.website.com/api/user/1")
 The value of `res` in the second `.then` is equal to the returned value of the previous `.then`. You can keep chaining `.then`s like this, where the value is passed to the next handler.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Which option is a way to set `hasName` equal to `true`, provided you cannot pass `true` as an argument?***
@@ -6910,7 +6910,7 @@ By setting `hasName` equal to `name`, you set `hasName` equal to whatever value 
 `name.length` returns the length of the passed argument, not whether it's `true`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6931,7 +6931,7 @@ In order to get an character on a specific index in a string, you can use bracke
 Note that this method is not supported in IE7 and below. In that case, use `.charAt()`
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6956,7 +6956,7 @@ You can set a default parameter's value equal to another parameter of the functi
 If you're trying to set a default parameter's value equal to a parameter which is defined _after_ (to the right), the parameter's value hasn't been initialized yet, which will throw an error.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -6984,7 +6984,7 @@ With the `import * as name` syntax, we import _all exports_ from the `module.js`
 The `data` object has a `default` property for the default export, other properties have the names of the named exports and their corresponding values.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7018,7 +7018,7 @@ function Person() {
 Calling a function constructor with `new` results in the creation of an instance of `Person`, `typeof` keyword returns `"object"` for an instance. `typeof member` returns `"object"`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7041,7 +7041,7 @@ The `.push` method returns the _new length_ of the array, not the array itself! 
 Then, we try to use the `.push` method on `newList`. Since `newList` is the numerical value `4`, we cannot use the `.push` method: a TypeError is thrown.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7068,7 +7068,7 @@ console.log(giveLydiaChocolate.prototype);
 Regular functions, such as the `giveLydiaPizza` function, have a `prototype` property, which is an object (prototype object) with a `constructor` property. Arrow functions however, such as the `giveLydiaChocolate` function, do not have this `prototype` property. `undefined` gets returned when trying to access the `prototype` property using `giveLydiaChocolate.prototype`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7101,7 +7101,7 @@ The first subarray is `[ "name", "Lydia" ]`, with `x` equal to `"name"`, and `y`
 The second subarray is `[ "age", 21 ]`, with `x` equal to `"age"`, and `y` equal to `21`, which get logged.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7134,7 +7134,7 @@ getItems(["banana", "apple"], "pear", "orange");
 The above example works. This returns the array `[ 'banana', 'apple', 'orange', 'pear' ]`
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7170,7 +7170,7 @@ a + b;
 This means that `a + b` is never reached, since a function stops running after the `return` keyword. If no value gets returned, like here, the function returns `undefined`. Note that there is no automatic insertion after `if/else` statements!
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7202,7 +7202,7 @@ console.log(member.name);
 We can set classes equal to other classes/function constructors. In this case, we set `Person` equal to `AnotherPerson`. The name on this constructor is `Sarah`, so the name property on the new `Person` instance `member` is `"Sarah"`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7228,7 +7228,7 @@ A Symbol is not _enumerable_. The Object.keys method returns all _enumerable_ ke
 This is one of the many qualities of a symbol: besides representing an entirely unique value (which prevents accidental name collision on objects, for example when working with 2 libraries that want to add properties to the same object), you can also "hide" properties on objects this way (although not entirely. You can still access symbols using the `Object.getOwnPropertySymbols()` method).
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7264,7 +7264,7 @@ The `getUser` function receives an object. With arrow functions, we don't _have_
 Since no value gets returned in this case, the function returns `undefined`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7290,7 +7290,7 @@ SyntaxErrors get thrown when you've written something that isn't valid JavaScrip
 ReferenceErrors get thrown when JavaScript isn't able to find a reference to a value that you're trying to access.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the value of output?***
@@ -7314,7 +7314,7 @@ You should${"" && `n't`} see a therapist after so much JavaScript lol`;
 `""` is a falsy value. If the left-hand value is falsy, nothing gets returned. `n't` doesn't get returned.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the value of output?***
@@ -7343,7 +7343,7 @@ With the `||` operator, we can return the first truthy operand. If all values ar
 `([] || 0 || "")`: the empty array`[]` is a truthy value. This is the first truthy value, which gets returned. `three` is equal to `[]`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the value of output?***
@@ -7383,7 +7383,7 @@ With the await keyword in `secondFunction`, we literally pause the execution of 
 This means that it waited for the `myPromise` to resolve with the value `I have resolved`, and only once that happened, we moved to the next line: `second` got logged.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the value of output?***
@@ -7416,7 +7416,7 @@ However, the second one is a string `"Lydia"`. `"Lydia"` is a string and `2` is 
 `{ name: "Lydia" }` is an object. Neither a number nor an object is a string, so it stringifies both. Whenever we stringify a regular object, it becomes `"[Object object]"`. `"[Object object]"` concatenated with `"2"` becomes `"[Object object]2"`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is its value?***
@@ -7437,7 +7437,7 @@ We can pass any type of value we want to `Promise.resolve`, either a promise or 
 In this case, we just passed the numerical value `5`. It returns a resolved promise with the value `5`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is its value?***
@@ -7472,7 +7472,7 @@ This means that both values have a reference to the same spot in memory, thus th
 The code block in the `else` statement gets run, and `They are the same!` gets logged.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is its value?***
@@ -7505,7 +7505,7 @@ With dot notation, JavaScript tries to find the property on the object with that
 JavaScript interprets (or unboxes) statements. When we use bracket notation, it sees the first opening bracket `[` and keeps going until it finds the closing bracket `]`. Only then, it will evaluate the statement. If we would've used `colorConfig[colors[1]]`, it would have returned the value of the `red` property on the `colorConfig` object.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is its value?***
@@ -7522,7 +7522,7 @@ console.log("❤️" === "❤️");
 Under the hood, emojis are unicodes. The unicodes for the heart emoji is `"U+2764 U+FE0F"`. These are always the same for the same emojis, so we're comparing two equal strings to each other, which returns true.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Which of these methods modifies the original array?***
@@ -7550,7 +7550,7 @@ With `splice` method, we modify the original array by deleting, replacing or add
 `map`, `filter` and `slice` return a new array, `find` returns an element, and `reduce` returns a reduced value.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7578,7 +7578,7 @@ In JavaScript, primitive data types (everything that's not an object) interact b
 Then, we change the value of the `favoriteFood` property on the `info` object. The `food` array hasn't changed, since the value of `favoriteFood` was merely a _copy_ of the value of the first element in the array, and doesn't have a reference to the same spot in memory as the element on `food[0]`. When we log food, it's still the original array, `['🍕', '🍫', '🥑', '🍔']`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What does this method do?***
@@ -7611,7 +7611,7 @@ JSON.parse(jsonArray); // { name: 'Lydia' }
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7651,7 +7651,7 @@ getName(); // Lydia
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7698,7 +7698,7 @@ console.log(two.next().value); // undefined
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7717,7 +7717,7 @@ console.log(`${((x) => x)("I love")} to program`);
 Expressions within template literals are evaluated first. This means that the string will contain the returned value of the expression, the immediately invoked function `(x => x)('I love')` in this case. We pass the value `'I love'` as an argument to the `x => x` arrow function. `x` is equal to `'I love'`, which gets returned. This results in `I love to program`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What will happen?***
@@ -7742,7 +7742,7 @@ config = null;
 Normally when we set objects equal to `null`, those objects get _garbage collected_ as there is no reference anymore to that object. However, since the callback function within `setInterval` is an arrow function (thus bound to the `config` object), the callback function still holds a reference to the `config` object. As long as there is a reference, the object won't get garbage collected. Since it's not garbage collected, the `setInterval` callback function will still get invoked every 1000ms (1s).
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Which method(s) will return the value `'Hello world!'`?***
@@ -7774,7 +7774,7 @@ When adding a key/value pair using the `set` method, the key will be the value o
 3 is wrong, since we're creating a new function by passing it as a parameter to the `get` method. Object interact by _reference_. Functions are objects, which is why two functions are never strictly equal, even if they are identical: they have a reference to a different spot in memory.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***What is the output?***
@@ -7811,7 +7811,7 @@ First, we invoke the `changeAge` function and pass the `person` object as its ar
 Then, we invoke the `changeAgeAndName` function, however we don't pass a parameter. Instead, the value of `x` is equal to a _new_ object: `{ ...person }`. Since it's a new object, it doesn't affect the values of the properties on the `person` object. `person` is still equal to `{ name: "Lydia", age: 22 }`.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Predict the output***
@@ -7823,7 +7823,7 @@ if(2 == false) // returns false
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Being told that an unsorted array contains (n - 1) of n consecutive numbers (where the bounds are defined), find the missing number in O(n) time?***
@@ -7860,7 +7860,7 @@ function findMissingNumber(arrayOfIntegers, upperBound, lowerBound) {
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How will you remove duplicates from an array in JavaScript?***
@@ -7930,7 +7930,7 @@ function uniqueArray(array) {
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Given a string, reverse each word in the sentence***
@@ -7951,7 +7951,7 @@ function reverseBySeparator(string, separator) {
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Implement enqueue and dequeue using only two stacks***
@@ -7983,7 +7983,7 @@ function dequeue(stackInput, stackOutput) {
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How would you use a closure to create a private counter?***
@@ -8014,7 +8014,7 @@ c.retrieve(); // => The counter is currently at: 14
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How to divide an array in multiple equal parts in JS?***
@@ -8040,7 +8040,7 @@ split(lenth);
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/split-array-5od3rz)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Write a random integers function to print integers with in a range?***
@@ -8062,7 +8062,7 @@ randomInteger(1, 100); // returns a random integer from 1 to 100
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-random-integers-yd1cy8?file=/src/index.js)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How to convert Decimal to Binary in JavaScript?***
@@ -8099,7 +8099,7 @@ console.log(val.toString(16)); // A  ==> Hexadecimal Conversion
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-decimal-to-binary-uhyi8t?file=/src/index.js)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How do you make first letter of the string in an uppercase?***
@@ -8121,7 +8121,7 @@ console.log(capitalizeFirstLetter("hello world")); // Hello World
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-capitalizefirstletter-dpjhky?file=/src/index.js)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Write a function which will test string as a literal and as an object?***
@@ -8151,7 +8151,7 @@ console.log(check(objStr)); // It is an object of string
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-literal-vs-object-978dqw?file=/src/index.js)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How do you reversing an array?***
@@ -8166,7 +8166,7 @@ console.log(numbers); // [1, 2, 3, 4 ,5]
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How do you find min and max value in an array?***
@@ -8188,7 +8188,7 @@ console.log(findMax(marks));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***How do you find min and max values without Math functions?***
@@ -8224,7 +8224,7 @@ console.log(findMax(marks));
 ```
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
 
 ## Q. ***Write code for merge two JavaScript Object dynamically?***
@@ -8308,5 +8308,5 @@ function find_max(nums) {
 **&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-code-practice-xjw5n3)**
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#javascript-coding-practice">↥ back to top</a></b>
 </div>
